@@ -1,7 +1,7 @@
 # Hello, I'm Hanna! Welcome to my github! 🚀
 <code><br></code>
 
-- 📚 I am currently pursuing a Bachelor's Degree in Information Systems (2nd semester), at PUCPR (Paraná, Brazil)
+- 📚 I am currently pursuing a Bachelor's Degree in Information Systems (3nd semester), at PUCPR (Paraná, Brazil)
 - ⚡ Fun fact: I'm also a Lawyer! However, I found my true passion in technology, programming and design. For this reason, last year I began a career transition so I can follow my dreams!
 - 💡 My biggest dream is to own a tech company where I can bring positive social impacts for minorities in Brazil!
 - 📫 Want to contact me? Reach me at: hanna.pcf@gmail.com | [Linkedin](https://www.linkedin.com/in/hannapcf/)
