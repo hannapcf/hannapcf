@@ -5,7 +5,7 @@
 - 🍎 I am a student at the apple developer academy, class of 2021.
 - ⚡ Fun fact: I'm also a Lawyer! However, I found my true passion in technology, programming and design. For this reason, last year I began a career transition so I can follow my dreams!
 - 💡 My biggest dream is to own a tech company where I can bring positive social impacts for minorities in Brazil!
-- 📫 Want to contact me? Reach me at: hanna.pcf@gmail.com | [Linkedin](https://www.linkedin.com/in/hannapcf/)
+- 📫 Want to contact me? Reach me at: hanna.pcf@gmail.com | [Linkedin](https://www.linkedin.com/in/hannapcf/)| [Instagram](https://www.instagram.com/hanna.dev.br/?hl=pt-br)
 
 <code><br></code>
 ## Technologies 🛠
