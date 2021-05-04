@@ -1,7 +1,7 @@
 # Hello, I'm Hanna! Welcome to my github! 🚀
 <code><br></code>
 
-- 📚 I'm currently pursuing a Bachelor's Degree in Information Systems (3nd semester), at PUCPR (Paraná, Brazil 🇧🇷)
+- 📚 I'm currently pursuing a Bachelor's Degree in Information Systems (3⁰ semester), at PUCPR (Paraná, Brazil 🇧🇷)
 - 🍎 I'm a student at the apple developer academy, class of 2021.
 - ⚡ Fun fact: I'm also a Lawyer! However, I found my true passion in technology, programming and design. For this reason, last year I began a career transition so I can follow my dreams!
 - 💡 My biggest dream is to own a tech company where I can bring positive social impacts for minorities in Brazil!
